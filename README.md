@@ -7,3 +7,4 @@ https://www.cyberforum.ru/c-beginners/thread2166227.html
 
 https://www.cyberforum.ru/c-beginners/thread2166227.html
 https://www.cyberforum.ru/c-beginners/thread2166227.html
+https://www.geeksforgeeks.org/program-for-conways-game-of-life/
