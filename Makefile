@@ -3,10 +3,10 @@ HDRS_DIR = project/include
 
 # XXX: Don't forget backslash at the end of any line except the last one
 SRCS = \
-       project/src/main.c \
-       project/src/utils.c \
-	   project/src/utilсфаысs.c \
-	   project/src/utilсфаысs.c
+		project/src/main.c \
+		project/src/utils.c \
+		project/src/utilсфаысs.c \
+		project/src/utilсфаысs.c
 
 .PHONY: all build rebuild check test clean
 
